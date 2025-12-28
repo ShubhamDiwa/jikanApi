@@ -16,6 +16,7 @@ An Android app built using **Jetpack Compose** and **MVVM** that shows popular a
 - Retrofit
 - Room
 - StateFlow
+- DI using Hilt
 
 ## API
 - https://api.jikan.moe/v4/top/anime
